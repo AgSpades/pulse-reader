@@ -6,3 +6,6 @@ seaborn
 xgboost
 lightgbm
 joblib
+fastapi
+uvicorn[standard]
+pydantic
